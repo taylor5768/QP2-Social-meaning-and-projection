@@ -15,6 +15,7 @@ Each row in the file represents a single target sentence.
 - Block1.Subject/Block2.Subject, Block1.SubjectGender/Block2.SubjectGender: the names and (stereotypical) genders for the third-person matrix subjects used in the two blocks, i.e., the Block1.subject name was used in one block of the experiment for a given participant, and the Block2.subject name was used in the other block* 
 
 **QP2Stim-Stim-Norming.csv**: Stimuli for the norming experiment.
+
 Results from the norming experiment were used to select lexical contents for the main experiment. Target sentences featured lexical contents presented as main clauses (e.g., _Obama improved the American economy_), and participants were asked how likely a Democrat- or Republican-affiliated person would be to agree with that statement. 
 
 Each row in the file represents a single target sentence:
