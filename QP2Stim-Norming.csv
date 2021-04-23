@@ -1,0 +1,39 @@
+List,ID,ID-Condition,Speaker Gender,Speaker,Subject gender,Predicate,Topic,Complement,Orientation
+1,1,1-R,Female,Linda,Male,realize,global warming,global warming is solely the effect of natural causes,R
+2,1,1-L,Female,Linda,Male,realize,global warming,global warming is solely the effect of human actions,L
+2,2,2-R,Male,Rob,Male,know,healthcare,the government should stay out of the healthcare system,R
+1,2,2-L,Male,Rob,Male,know,healthcare,the government should run the healthcare system,L
+1,3,3-R,Female,Katie,Male,see,minimum wage,the minimum wage hurts small businesses,R
+2,3,3-L,Female,Katie,Male,see,minimum wage,the minimum wage ensures fair pay,L
+2,4,4-R,Male,Luke,Male,discover,gay marriage,only heterosexual couples should be allowed to marry,R
+1,4,4-L,Male,Luke,Male,discover,gay marriage,same-sex couples should be allowed to marry,L
+1,5,5-R,Female,Mary,Male,think,the wall,the government should fund the border wall,R
+2,5,5-L,Female,Mary,Male,think,the wall,the government should refuse to fund the border wall,L
+2,6,6-R,Male,Brian,Male,feel,gun laws,strict gun control laws cause mass shootings,R
+1,6,6-L,Male,Brian,Male,feel,gun laws,strict gun control laws prevent mass shootings,L
+1,7,7-R,Female,Cindy,Male,believe,Obama,Obama damaged the American economy,R
+2,7,7-L,Female,Cindy,Male,believe,Obama,Obama improved the American economy,L
+2,8,8-R,Male,Derek,Female,realize,abortion,abortion rights should be reduced,R
+1,8,8-L,Male,Derek,Female,realize,abortion,abortion rights should be expanded,L
+1,9,9-R,Female,Maria,Female,know,affirmative action,affirmative action programs drain government resources,R
+2,9,9-L,Female,Maria,Female,know,affirmative action,affirmative action programs ensure equal access to jobs,L
+2,10,10-R,Male,Fred,Female,see,capital punishment,all states should allow capital punishment,R
+1,10,10-L,Male,Fred,Female,see,capital punishment,the federal government should ban capital punishment,L
+1,11,11-R,Female,Allison,Female,discover,Trump,Trump's national security policies make Americans safer,R
+2,11,11-L,Female,Allison,Female,discover,Trump,Trump's national security policies put Americans in danger,L
+2,12,12-R,Male,Mike,Female,think,corporate taxes,high corporate taxes hurt the American economy,R
+1,12,12-L,Male,Mike,Female,think,corporate taxes,high corporate taxes help the American economy,L
+1,13,13-R,Female,Sandra,Female,feel,environmental laws,there are too many environmental laws,R
+2,13,13-L,Female,Sandra,Female,feel,environmental laws,there are too few environmental laws,L
+2,14,14-R,Male,David,Female,believe,medicaid,medicaid funding should be decreased,R
+1,14,14-L,Male,David,Female,believe,medicaid,medicaid funding should be increased,L
+1,15,15-R,Female,Erin,TBD,TBD,guns and teachers,schoolteachers carrying guns promotes student safety,R
+2,15,15-L,Female,Erin,TBD,TBD,guns and teachers,schoolteachers carrying guns threatens student safety,L
+2,16,16-R,Male,Jeff,TBD,TBD,immigration,immigrants steal jobs from Americans,R
+1,16,16-L,Male,Jeff,TBD,TBD,immigration,immigrants support the American economy,L
+1,17,17-R,Male,Steve,TBD,TBD,abortion-2,abortion is unethical,R
+2,17,17-L,Male,Steve,TBD,TBD,abortion-2,abortion is a woman's right,L
+1,filler1,filler1-Y,Female,Rita,NONE,NONE,elections,US presidential elections are held in November,
+2,filler1,filler1-Y,Female,Rita,NONE,NONE,elections,US presidential elections are held in November,
+1,filler2,filler-N,Male,Daniel,NONE,NONE,capital,the capital of the US is in Ohio,
+2,filler2,filler-N,Male,Daniel,NONE,NONE,capital,the capital of the US is in Ohio,
