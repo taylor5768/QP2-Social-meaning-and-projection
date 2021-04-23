@@ -14,6 +14,9 @@ Each row in the file represents a single target sentence.
 - **Block1.Speaker/Block2.Speaker, Block1.SpeakerGender/Block2.SpeakerGender**: the names and (stereotypical) genders of the speakers used in the two blocks, i.e., the Block1.speaker name was used in one block of the experiment for a given participant, and the Block2.speaker name was used in the other block* 
 - **Block1.Subject/Block2.Subject, Block1.SubjectGender/Block2.SubjectGender**: the names and (stereotypical) genders for the third-person matrix subjects used in the two blocks, i.e., the Block1.subject name was used in one block of the experiment for a given participant, and the Block2.subject name was used in the other block* 
 
+*Note: block order was randomized, so the block numbers don't necessarily correspond to the order in which a given participant saw the stimuli with each speaker/subject name/gender.
+
+
 The main experiment can be viewed here: https://www.asc.ohio-state.edu/mahler.38/QP2Main-Expanded-Exp1/run-AMT-experiment/experiment.html
 
 
