@@ -3,6 +3,7 @@
 This repository contains the stimuli for the experiments reported in this paper: http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/  
 
 **QP2Stim-Main-Expanded.csv**: Stimuli for the main experiment reported in the paper
+
 Target sentences in the main experiment featured a third-person matrix subject (e.g.,_Ben_), a clause-embedding predicate (e.g., _know, believe_), and a clausal complement (e.g., _Obama improved the American economy_).  The predicate and complement were embedded under negation (e.g., _John doesn't know that Obama improved the American economy). 
 
 Each row in the file represents a single target sentence.
