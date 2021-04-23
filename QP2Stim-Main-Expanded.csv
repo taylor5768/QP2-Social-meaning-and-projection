@@ -1,87 +1,87 @@
-﻿Predicate,Topic,Complement,ItemNumber,Orientation,Block1.SpeakerGender,Block1.Speaker,Block1.SubjectGender,Block1.Subject,Block2.SpeakerGender,Block2.Speaker,Block2.SubjectGender,Block2.Subject,ID-Condition
-believe,medicaid,medicaid funding should be increased,1,L,Male,David,Female,Anna,Male,Aaron,Female,Rhonda,1-L
-believe,medicaid,medicaid funding should be decreased,1,R,Male,David,Female,Anna,Male,Aaron,Female,Rhonda,1-R
-believe,Obama,Obama improved the American economy,2,L,Female,Cindy,Male,Ben,Female,Celia,Male,Peter,2-L
-believe,Obama,Obama damaged the American economy,2,R,Female,Cindy,Male,Ben,Female,Celia,Male,Peter,2-R
-believe,guns and teachers,schoolteachers carrying guns threatens student safety,3,L,Male,David,Female,Anna,Male,Aaron,Female,Rhonda,3-L
-believe,guns and teachers,schoolteachers carrying guns promotes student safety,3,R,Male,David,Female,Anna,Male,Aaron,Female,Rhonda,3-R
-believe,abortion,abortion rights should be expanded,4,L,Female,Cindy,Male,Ben,Female,Celia,Male,Peter,4-L
-believe,abortion,abortion rights should be reduced,4,R,Female,Cindy,Male,Ben,Female,Celia,Male,Peter,4-R
-discover,environmental laws,there are too few environmental laws,5,L,Male,Luke,Male,Andy,Male,Don,Male,Jim,5-L
-discover,environmental laws,there are too many environmental laws,5,R,Male,Luke,Male,Andy,Male,Don,Male,Jim,5-R
-discover,Trump,Trump's national security policies put Americans in danger,6,L,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina,6-L
-discover,Trump,Trump's national security policies make Americans safer,6,R,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina,6-R
-discover,capital punishment,the federal government should ban capital punishment,7,L,Male,Luke,Male,Andy,Male,Don,Male,Jim,7-L
-discover,capital punishment,all states should allow capital punishment,7,R,Male,Luke,Male,Andy,Male,Don,Male,Jim,7-R
-discover,abortion-2,abortion is a woman's right,8,L,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina,8-L
-discover,abortion-2,abortion is unethical,8,R,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina,8-R
-feel,marriage,same-sex couples should be allowed to marry,9,L,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen,9-L
-feel,marriage,only heterosexual couples should be allowed to marry,9,R,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen,9-R
-feel,gun laws ,strict gun control laws prevent mass shootings,10,L,Male,Brian,Male,Jake,Male,Ted,Male,Justin,10-L
-feel,gun laws ,strict gun control laws prevent mass shootings,10,R,Male,Brian,Male,Jake,Male,Ted,Male,Justin,10-R
-feel,the wall,the government should refuse to fund the border wall,11,L,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen,11-L
-feel,the wall,the government should fund the border wall,11,R,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen,11-R
-feel,immmigration,immigrants support the American economy,12,L,Male,Brian,Male,Jake,Male,Ted,Male,Justin,12-L
-feel,immmigration,immigrants steal jobs from Americans,12,R,Male,Brian,Male,Jake,Male,Ted,Male,Justin,12-R
-know,affirmative action,affirmative action programs ensure equal access to jobs,13,L,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha,13-L
-know,affirmative action,affirmative action programs drain government resources,13,R,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha,13-R
-know,healthcare,the government should run the healthcare system,14,L,Male,Rob,Male,Bill,Male,Martin,Male,Gabe,14-L
-know,healthcare,the government should stay out of the healthcare system,14,R,Male,Rob,Male,Bill,Male,Martin,Male,Gabe,14-R
-know,medicaid,medicaid funding should be increased,15,L,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha,15-L
-know,medicaid,medicaid funding should be decreased,15,R,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha,15-R
-know,Obama,Obama improved the American economy,16,L,Male,Rob,Male,Bill,Male,Martin,Male,Gabe,16-L
-know,Obama,Obama damaged the American economy,16,R,Male,Rob,Male,Bill,Male,Martin,Male,Gabe,16-R
-realize,immmigration,immigrants support the American economy,17,L,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer,17-L
-realize,immmigration,immigrants steal jobs from Americans,17,R,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer,17-R
-realize,the wall,the government should refuse to fund the border wall,18,L,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon,18-L
-realize,the wall,the government should fund the border wall,18,R,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon,18-R
-realize,environmental laws,there are too few environmental laws,19,L,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer,19-L
-realize,environmental laws,there are too many environmental laws,19,R,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer,19-R
-realize,Trump,Trump's national security policies put Americans in danger,20,L,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon,20-L
-realize,Trump,Trump's national security policies make Americans safer,20,R,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon,20-R
-see,abortion-2,abortion is a woman's right,21,L,Female,Katie,Male,Jeff,Female,Jane,Male,Brad,21-L
-see,abortion-2,abortion is unethical,21,R,Female,Katie,Male,Jeff,Female,Jane,Male,Brad,21-R
-see,capital punishment,the federal government should ban capital punishment,22,L,Male,Fred,Female,Martha,Male,Evan,Female,Andrea,22-L
-see,capital punishment,all states should allow capital punishment,22,R,Male,Fred,Female,Martha,Male,Evan,Female,Andrea,22-R
-see,gay marriage,same-sex couples should be allowed to marry,23,L,Female,Katie,Male,Jeff,Female,Jane,Male,Brad,23-L
-see,gay marriage,only heterosexual couples should be allowed to marry,23,R,Female,Katie,Male,Jeff,Female,Jane,Male,Brad,23-R
-see,gun laws ,strict gun control laws prevent mass shootings,24,L,Male,Fred,Female,Martha,Male,Evan,Female,Andrea,24-L
-see,gun laws ,strict gun control laws prevent mass shootings,24,R,Male,Fred,Female,Martha,Male,Evan,Female,Andrea,24-R
-think,abortion,abortion rights should be expanded,25,L,Female,Mary,Male,Frank,Female,Judith,Male,Gordon,25-L
-think,abortion,abortion rights should be reduced,25,R,Female,Mary,Male,Frank,Female,Judith,Male,Gordon,25-R
-think,guns and teachers,schoolteachers carrying guns threatens student safety,26,L,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky,26-L
-think,guns and teachers,schoolteachers carrying guns promotes student safety,26,R,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky,26-R
-think,affirmative action,affirmative action programs ensure equal access to jobs,27,L,Female,Mary,Male,Frank,Female,Judith,Male,Gordon,27-L
-think,affirmative action,affirmative action programs drain government resources,27,R,Female,Mary,Male,Frank,Female,Judith,Male,Gordon,27-R
-think,healthcare,the government should run the healthcare system,28,L,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky,28-L
-think,healthcare,the government should stay out of the healthcare system,28,R,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky,28-R
-NONE,cookies,Simon brought the cookies for dessert,filler1,NONE,Female,Rita,NONE,NONE,Female,Carly,NONE,NONE,filler1
-NONE,sick,Caroline missed the meeting because she's sick,filler2,NONE,Male,Daniel,NONE,NONE,Male,Larry,NONE,NONE,filler2
-believe,registration,the club registration forms were sent in the mail,29,N,Female,Sophia,Male,Harry,Female,Julie,Male,Bruce,29-N
-believe,meeting location,the club meeting location needs to be changed,30,N,Male,Nathan,Female,Clara,Male,Bruce,Female,Julie,30-N
-believe,lighting,the room needs more lighting,31,N,Female,Sophia,Male,Harry,Female,Julie,Male,Bruce,31-N
-believe,fundraiser,the club fundraiser is next week,32,N,Male,Nathan,Female,Clara,Male,Bruce,Female,Julie,32-N
-discover,newsletter,the club newsletter will be sent next month,33,N,Male,Noah,Male,Jake,Male,Ian,Male,Clark,33-N
-discover,recruitment,there need to be more club recruitment activities,34,N,Female,Charlotte,Female,Abby,Female,Wanda,Female,Susan,34-N
-discover,break,there needs to be a break half-way through the meeting,35,N,Male,Noah,Male,Jake,Male,Ian,Male,Clark,35-N
-discover,disorganized,club meetings are too disorganized,36,N,Female,Charlotte,Female,Abby,Female,Wanda,Female,Susan,36-N
-feel,membership,club membership numbers have increased,37,N,Male,Josh,Male,Mark,Male,Phil,Male,Zach,37-N
-feel,long,the club meetings are too long,38,N,Female,Jessica,Female,Megan,Female,Amber,Female,Mandy,38-N
-feel,hot,it's too hot in the meeting room,39,N,Male,Josh,Male,Mark,Male,Phil,Male,Zach,39-N
-feel,late,the meeting started late,40,N,Female,Jessica,Female,Megan,Female,Amber,Female,Mandy,40-N
-know,earlier,club meetings need to start earlier,41,N,Female,Rosie,Female,Lily,Female,Esther,Female,Felicia,41-N
-know,pizza,the pizza has olives on it,42,N,Male,Isaac,Male,James,hot,Greg,Male,Tim,42-N
-know,registration,the club registration forms were sent in the mail,43,N,Female,Rosie,Female,Lily,Female,Esther,Female,Felicia,43-N
-know,meeting location,the club meeting location needs to be changed,44,N,Male,Isaac,Male,James,Male,Greg,Male,Tim,44-N
-realize,hot,it's too hot in the meeting room,45,N,Male,Adam,Female,Lucy,Male,George,Female,Theresa,45-N
-realize,late,the meeting started late,46,N,Female,Nancy,Male,Tom,Female,Theresa,Male,George,46-N
-realize,newsletter,the club newsletter will be sent next month,47,N,Male,Adam,Female,Lucy,Male,George,Female,Theresa,47-N
-realize,recruitment,there need to be more club recruitment activities,48,N,Female,Nancy,Male,Tom,Female,Theresa,Male,George,48-N
-see,break,there needs to be a break half-way through the meeting,49,N,Male,Arthur,Female,Holly,Male,Samuel,Female,Desiree,49-N
-see,disorganized,club meetings are too disorganized,50,N,Female,Chloe,Male,Matt,Female,Desiree,Male,Samuel,50-N
-see,membership,club membership numbers have increased,51,N,Male,Arthur,Female,Holly,Male,Samuel,Female,Desiree,51-N
-see,long,the club meetings are too long,52,N,Female,Chloe,Male,Matt,Female,Desiree,Male,Samuel,52-N
-think,lighting,the room needs more lighting,53,N,Male,Ed,Female,Molly,Male,Andrew,Female,Tina,53-N
-think,fundraiser,the club fundraiser is next week,54,N,Female,Emily,Male,Caleb,Female,Tina,Male,Andrew,54-N
-think,earlier,club meetings need to start earlier,55,N,Male,Ed,Female,Molly,Male,Andrew,Female,Tina,55-N
-think,pizza,the pizza has olives on it,56,N,Female,Emily,Male,Caleb,Female,Tina,Male,Andrew,56-N
+﻿Predicate,Topic,Complement,Orientation,Block1.SpeakerGender,Block1.Speaker,Block1.SubjectGender,Block1.Subject,Block2.SpeakerGender,Block2.Speaker,Block2.SubjectGender,Block2.Subject
+believe,medicaid,medicaid funding should be increased,L,Male,David,Female,Anna,Male,Aaron,Female,Rhonda
+believe,medicaid,medicaid funding should be decreased,R,Male,David,Female,Anna,Male,Aaron,Female,Rhonda
+believe,Obama,Obama improved the American economy,L,Female,Cindy,Male,Ben,Female,Celia,Male,Peter
+believe,Obama,Obama damaged the American economy,R,Female,Cindy,Male,Ben,Female,Celia,Male,Peter
+believe,guns and teachers,schoolteachers carrying guns threatens student safety,L,Male,David,Female,Anna,Male,Aaron,Female,Rhonda
+believe,guns and teachers,schoolteachers carrying guns promotes student safety,R,Male,David,Female,Anna,Male,Aaron,Female,Rhonda
+believe,abortion,abortion rights should be expanded,L,Female,Cindy,Male,Ben,Female,Celia,Male,Peter
+believe,abortion,abortion rights should be reduced,R,Female,Cindy,Male,Ben,Female,Celia,Male,Peter
+discover,environmental laws,there are too few environmental laws,L,Male,Luke,Male,Andy,Male,Don,Male,Jim
+discover,environmental laws,there are too many environmental laws,R,Male,Luke,Male,Andy,Male,Don,Male,Jim
+discover,Trump,Trump's national security policies put Americans in danger,L,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina
+discover,Trump,Trump's national security policies make Americans safer,R,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina
+discover,capital punishment,the federal government should ban capital punishment,L,Male,Luke,Male,Andy,Male,Don,Male,Jim
+discover,capital punishment,all states should allow capital punishment,R,Male,Luke,Male,Andy,Male,Don,Male,Jim
+discover,abortion-2,abortion is a woman's right,L,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina
+discover,abortion-2,abortion is unethical,R,Female,Allison,Female,Laura,Female,Betsy,Female,Alaina
+feel,marriage,same-sex couples should be allowed to marry,L,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen
+feel,marriage,only heterosexual couples should be allowed to marry,R,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen
+feel,gun laws ,strict gun control laws prevent mass shootings,L,Male,Brian,Male,Jake,Male,Ted,Male,Justin
+feel,gun laws ,strict gun control laws prevent mass shootings,R,Male,Brian,Male,Jake,Male,Ted,Male,Justin
+feel,the wall,the government should refuse to fund the border wall,L,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen
+feel,the wall,the government should fund the border wall,R,Female,Sandra,Female,Ashley,Female,Debbie,Female,Kathleen
+feel,immmigration,immigrants support the American economy,L,Male,Brian,Male,Jake,Male,Ted,Male,Justin
+feel,immmigration,immigrants steal jobs from Americans,R,Male,Brian,Male,Jake,Male,Ted,Male,Justin
+know,affirmative action,affirmative action programs ensure equal access to jobs,L,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha
+know,affirmative action,affirmative action programs drain government resources,R,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha
+know,healthcare,the government should run the healthcare system,L,Male,Rob,Male,Bill,Male,Martin,Male,Gabe
+know,healthcare,the government should stay out of the healthcare system,R,Male,Rob,Male,Bill,Male,Martin,Male,Gabe
+know,medicaid,medicaid funding should be increased,L,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha
+know,medicaid,medicaid funding should be decreased,R,Female,Maria,Female,Ann,Female,Wendy,Female,Natasha
+know,Obama,Obama improved the American economy,L,Male,Rob,Male,Bill,Male,Martin,Male,Gabe
+know,Obama,Obama damaged the American economy,R,Male,Rob,Male,Bill,Male,Martin,Male,Gabe
+realize,immmigration,immigrants support the American economy,L,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer
+realize,immmigration,immigrants steal jobs from Americans,R,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer
+realize,the wall,the government should refuse to fund the border wall,L,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon
+realize,the wall,the government should fund the border wall,R,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon
+realize,environmental laws,there are too few environmental laws,L,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer
+realize,environmental laws,there are too many environmental laws,R,Male,Steve,Female,Alice,Male,Nicholas,Female,Jennifer
+realize,Trump,Trump's national security policies put Americans in danger,L,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon
+realize,Trump,Trump's national security policies make Americans safer,R,Female,Linda,Male,Dan,Female,Barbara,Male,Brandon
+see,abortion-2,abortion is a woman's right,L,Female,Katie,Male,Jeff,Female,Jane,Male,Brad
+see,abortion-2,abortion is unethical,R,Female,Katie,Male,Jeff,Female,Jane,Male,Brad
+see,capital punishment,the federal government should ban capital punishment,L,Male,Fred,Female,Martha,Male,Evan,Female,Andrea
+see,capital punishment,all states should allow capital punishment,R,Male,Fred,Female,Martha,Male,Evan,Female,Andrea
+see,gay marriage,same-sex couples should be allowed to marry,L,Female,Katie,Male,Jeff,Female,Jane,Male,Brad
+see,gay marriage,only heterosexual couples should be allowed to marry,R,Female,Katie,Male,Jeff,Female,Jane,Male,Brad
+see,gun laws ,strict gun control laws prevent mass shootings,L,Male,Fred,Female,Martha,Male,Evan,Female,Andrea
+see,gun laws ,strict gun control laws prevent mass shootings,R,Male,Fred,Female,Martha,Male,Evan,Female,Andrea
+think,abortion,abortion rights should be expanded,L,Female,Mary,Male,Frank,Female,Judith,Male,Gordon
+think,abortion,abortion rights should be reduced,R,Female,Mary,Male,Frank,Female,Judith,Male,Gordon
+think,guns and teachers,schoolteachers carrying guns threatens student safety,L,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky
+think,guns and teachers,schoolteachers carrying guns promotes student safety,R,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky
+think,affirmative action,affirmative action programs ensure equal access to jobs,L,Female,Mary,Male,Frank,Female,Judith,Male,Gordon
+think,affirmative action,affirmative action programs drain government resources,R,Female,Mary,Male,Frank,Female,Judith,Male,Gordon
+think,healthcare,the government should run the healthcare system,L,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky
+think,healthcare,the government should stay out of the healthcare system,R,Male,Derek,Female,Lisa,Male,Richard,Female,Vicky
+NONE,cookies,Simon brought the cookies for dessert,NONE,Female,Rita,NONE,NONE,Female,Carly,NONE,NONE
+NONE,sick,Caroline missed the meeting because she's sick,NONE,Male,Daniel,NONE,NONE,Male,Larry,NONE,NONE
+believe,registration,the club registration forms were sent in the mail,N,Female,Sophia,Male,Harry,Female,Julie,Male,Bruce
+believe,meeting location,the club meeting location needs to be changed,N,Male,Nathan,Female,Clara,Male,Bruce,Female,Julie
+believe,lighting,the room needs more lighting,N,Female,Sophia,Male,Harry,Female,Julie,Male,Bruce
+believe,fundraiser,the club fundraiser is next week,N,Male,Nathan,Female,Clara,Male,Bruce,Female,Julie
+discover,newsletter,the club newsletter will be sent next month,N,Male,Noah,Male,Jake,Male,Ian,Male,Clark
+discover,recruitment,there need to be more club recruitment activities,N,Female,Charlotte,Female,Abby,Female,Wanda,Female,Susan
+discover,break,there needs to be a break half-way through the meeting,N,Male,Noah,Male,Jake,Male,Ian,Male,Clark
+discover,disorganized,club meetings are too disorganized,N,Female,Charlotte,Female,Abby,Female,Wanda,Female,Susan
+feel,membership,club membership numbers have increased,N,Male,Josh,Male,Mark,Male,Phil,Male,Zach
+feel,long,the club meetings are too long,N,Female,Jessica,Female,Megan,Female,Amber,Female,Mandy
+feel,hot,it's too hot in the meeting room,N,Male,Josh,Male,Mark,Male,Phil,Male,Zach
+feel,late,the meeting started late,N,Female,Jessica,Female,Megan,Female,Amber,Female,Mandy
+know,earlier,club meetings need to start earlier,N,Female,Rosie,Female,Lily,Female,Esther,Female,Felicia
+know,pizza,the pizza has olives on it,N,Male,Isaac,Male,James,hot,Greg,Male,Tim
+know,registration,the club registration forms were sent in the mail,N,Female,Rosie,Female,Lily,Female,Esther,Female,Felicia
+know,meeting location,the club meeting location needs to be changed,N,Male,Isaac,Male,James,Male,Greg,Male,Tim
+realize,hot,it's too hot in the meeting room,N,Male,Adam,Female,Lucy,Male,George,Female,Theresa
+realize,late,the meeting started late,N,Female,Nancy,Male,Tom,Female,Theresa,Male,George
+realize,newsletter,the club newsletter will be sent next month,N,Male,Adam,Female,Lucy,Male,George,Female,Theresa
+realize,recruitment,there need to be more club recruitment activities,N,Female,Nancy,Male,Tom,Female,Theresa,Male,George
+see,break,there needs to be a break half-way through the meeting,N,Male,Arthur,Female,Holly,Male,Samuel,Female,Desiree
+see,disorganized,club meetings are too disorganized,N,Female,Chloe,Male,Matt,Female,Desiree,Male,Samuel
+see,membership,club membership numbers have increased,N,Male,Arthur,Female,Holly,Male,Samuel,Female,Desiree
+see,long,the club meetings are too long,N,Female,Chloe,Male,Matt,Female,Desiree,Male,Samuel
+think,lighting,the room needs more lighting,N,Male,Ed,Female,Molly,Male,Andrew,Female,Tina
+think,fundraiser,the club fundraiser is next week,N,Female,Emily,Male,Caleb,Female,Tina,Male,Andrew
+think,earlier,club meetings need to start earlier,N,Male,Ed,Female,Molly,Male,Andrew,Female,Tina
+think,pizza,the pizza has olives on it,N,Female,Emily,Male,Caleb,Female,Tina,Male,Andrew
