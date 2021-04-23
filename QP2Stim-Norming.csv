@@ -5,8 +5,8 @@ healthcare,the government should stay out of the healthcare system,R
 healthcare,the government should run the healthcare system,L
 minimum wage,the minimum wage hurts small businesses,R
 minimum wage,the minimum wage ensures fair pay,L
-marriage,only heterosexual couples should be allowed to marry,R
-marriage,same-sex couples should be allowed to marry,L
+gay marriage,only heterosexual couples should be allowed to marry,R
+gay marriage,same-sex couples should be allowed to marry,L
 the wall,the government should fund the border wall,R
 the wall,the government should refuse to fund the border wall,L
 gun laws,strict gun control laws cause mass shootings,R
@@ -33,7 +33,5 @@ immigration,immigrants steal jobs from Americans,R
 immigration,immigrants support the American economy,L
 abortion-2,abortion is unethical,R
 abortion-2,abortion is a woman's right,L
-elections,US presidential elections are held in November,
-elections,US presidential elections are held in November,
-capital,the capital of the US is in Ohio,
-capital,the capital of the US is in Ohio,
+elections,US presidential elections are held in November,filler
+capital,the capital of the US is in Ohio,filler
