@@ -1,0 +1,355 @@
+<html>
+
+<head>
+    <title>Language study</title>
+
+    <!--JS-->
+
+    <!-- external general utilities -->
+    <script src="../_shared/js/jquery-1.11.1.min.js "></script>
+    <script src="../_shared/full-projects/jquery-ui/jquery-ui.min.js"></script>
+    <script src="../_shared/js/underscore-min.js"></script>
+
+    <!-- cocolab experiment logic -->
+    <script src="../_shared/js/exp-V2.js"></script>
+    <script src="../_shared/js/stream-V2.js"></script>
+
+    <!-- cocolab general utilities -->
+    <script src="../_shared/js/mmturkey.js "></script>
+    <script src="../_shared/js/browserCheck.js"></script>
+    <!-- if you want to draw cute creatures (depends on raphael): -->
+    <!-- <script src="../_shared/js/ecosystem.js"></script> -->
+
+    <!-- experiment specific helper functions -->
+    <script src="../_shared/js/utils.js"></script>
+    <!-- <script src="js/local-utils.js"></script> -->
+
+    <!--CSS-->
+    <link href="../_shared/full-projects/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../_shared/css/cocolab-style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/local-style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>    
+
+    <!-- experiment file -->
+    <script src="js/experiment.js"></script>
+    <script src="js/multCondStims.js"></script>
+    
+    
+</head>
+
+<body onload="init();">
+  <noscript>This task requires JavaScript.</noscript>
+
+  <div class="slide" id="i0" > <p
+  class="block-text" id="instruct-text"><br><br>You will read some sentences and answer some questions about them.
+  The HIT should take approximately 12 minutes. Please pay close
+  attention!</p> <button id="start_button" type="button">Continue</button> 
+  
+  
+ </div>
+
+  <div class="slide" id="instructions">
+    <h4>Instructions</h4>
+    <p class="block-text">  This experiment has two parts. There are 46 questions total, 23 questions in each part.</p>
+<p class="block-text" id="inst0">{{}}</p>
+
+
+<p class="block-text">  You will read snippets of conversations from the meeting. For example:</p>
+
+<p class = "block-text" id = "example">{{}}</p> 
+
+<p class="block-text"> We then ask you how certain the speaker is about something s/he said:</p>
+
+<p class="block-text" id="task">{{}}</p>
+
+
+<p class="block-text"> You'll give your answer on a scale from 'No, not certain' to 'Yes, certain'.  
+
+<!--<br> <br> There are a total of 23 questions. </p>-->
+<p class="block-text" id="inst0block2">{{}}</p>
+
+
+<p class="block-text"> <b>To make sure you are paying attention, we have included some questions for which there is a right answer. We will monitor your answers to these questions and you may not be paid if you do not answer correctly. If you read the questions carefully, you will definitely get those right.<br></b></p>
+   
+
+<p class="block-text"> <b> Payment:</b> You will be paid $1.25 to
+participate in this experiment, which will take about 12 minutes to
+complete. <br> </p>
+
+
+<p class="block-text"> At the end of the experiment, we will ask you some short questions about you and your language background. 
+You will be paid no matter what answers you give to those questions, so please answer truthfully.
+
+<br>Participation in this experiment is voluntary.
+
+<br> </p>
+
+
+    <button onclick="_s.button()">Start Experiment</button>
+    
+    
+      <p class="block-text" id="legal">  By clicking on the button above you agree to participate 
+  in this experiment, which is conducted by researchers 
+  at The Ohio State University. You may withdraw 
+  from this experiment at any time without penalty or loss of benefits, 
+  including loss or reduction of payment. If you do withdraw from the study
+   before the end, please contact the researchers for 
+   information on how to collect payment (<a href="mailto:mahler.38@osu.edu">mahler.38@osu.edu</a>).
+    The data collected will be anonymous and confidential.  
+    If you have any questions, you may contact the requester 
+    through Amazon’s Mechanical Turk platform, or directly at
+     <a href="mailto:mahler.38@osu.edu">mahler.38@osu.edu</a>. 
+     For questions about your rights as a participant in this study or to discuss other
+     study-related concerns or complaints with someone who is not part of the research team, 
+     you may contact Ms. Sandra Meadows in the Ohio State University 
+     Office of Responsible Research Practices at 1-800-678-6251. 
+</p>
+    
+    
+  
+  
+  
+    </div>
+  
+  <div class="slide" id="instructions1">
+  <br>  
+<p class="block-text" id="inst1">{{}}</p>
+    <button onclick="_s.button()">Continue</button>
+</div>  
+
+ <div class="slide" id="block1" >
+  <br> 
+  	<br>
+  	 <table width='600px' align="center" border='0' cellpadding='1' cellspacing='4'>
+  	<tr align="left" width='600px' class="utt1"></tr>
+  	<tr align="left" width='600px' class ="utt2"></tr>
+  	<!--<tr align="left" width='600px' &nbsp </tr>
+  	<tr align ="left" width = '600px' class = "question"></tr>-->
+  	<!--<tr align="left" width='600px' class ="utt3" ></tr>-->
+  	</table> 
+  	
+  	<br> 
+  	<br>
+  	<br>
+
+	<p class="question" align="center"></p>
+
+     <table id="slider_table" class="slider_table">
+      <tr><td class="left"><h3>No,<br>not certain</h3></td><td class="right"><h3>Yes,<br>certain</h3></td></tr>
+      <tr><td colspan="2"><div id="single_slider" class="slider"></div></td></tr>
+    </table>    
+   
+    
+    <button onclick="_s.button()">Next</button>
+	<p class="err">Please adjust the slider before continuing.</p>  
+</div>
+
+
+
+  <div class="slide" id="instructions2">
+  <br>  
+<p class="block-text" id="inst2">{{}}</p>
+    <button onclick="_s.button()">Continue</button>
+</div>  
+
+
+ 
+ <div class="slide" id="block2" >
+  <br> 
+  	<br>
+  	 <table width='600px' align="center" border='0' cellpadding='1' cellspacing='4'>
+  	<tr align="left" width='600px' class="utt1"></tr>
+  	<tr align="left" width='600px' class ="utt2"></tr>
+  	<!--<tr align="left" width='600px' &nbsp </tr>
+  	<tr align ="left" width = '600px' class = "question"></tr>-->
+  	<!--<tr align="left" width='600px' class ="utt3" ></tr>-->
+  	</table> 
+  	
+  	<br> 
+  	<br>
+  	<br>
+
+	<p class="question" align="center"></p>
+
+     <table id="slider_table" class="slider_table">
+      <tr><td class="left"><h3>No,<br>not certain</h3></td><td class="right"><h3>Yes,<br>certain</h3></td></tr>
+      <tr><td colspan="2"><div id="single_slider2" class="slider"></div></td></tr>
+    </table>    
+   
+    
+    <button onclick="_s.button()">Next</button>
+	<p class="err">Please adjust the slider before continuing.</p>  
+</div>
+
+
+<div class="demoSlide" id="questionaire">
+    <!--<div class="long_form">-->
+      <div class="subj_info_title">Questionnaire</div>
+      <p class="info">Some questions about you, this survey, and your language background:</b><br>You will be paid no matter what answers you give here, so please answer truthfully.</p>
+<!--      <p>Did you read the instructions and do you think you did the HIT correctly?</p>
+      <label><input type="radio"  name="assess" value="No"/>No</label>
+      <label><input type="radio"  name="assess" value="Yes"/>Yes</label>
+      <label><input type="radio"  name="assess" value="Confused"/>I was confused</label> !-->
+
+	
+	
+
+	<p><b>Were you asked to imagine a meeting of the College Democrats Club in one part of the experiment, and a meeting of the College Republicans Club in another part of the experiment?</b><br> 
+      <label><input type="radio"  name="memoryCheck" value="yes"/>Yes</label><br>
+      <label><input type="radio"  name="memoryCheck" value="no"/>No</label><br>
+      <label><input type="radio"  name="memoryCheck" value="idk"/>I don't remember</label><br>
+      </p>
+
+
+
+
+      <p><b>Gender:</b>
+        <select id="gender">
+          <label><option value=""/></label>
+          <label><option value="Male"/>Male</label>
+          <label><option value="Female"/>Female</label>
+          <label><option value="Other"/>Non-binary</label>
+        </select>
+      </p>
+
+      <p><b>Age: <input type="text" id="age"/></b></p>
+
+<!--   
+-->
+      <p><b>Native Language(s) (the language(s) spoken at home when you were a child): <input type="text" id="language"/></b></p>
+      <!--<label>(the language(s) spoken at home when you were a child)</label>-->
+
+<p>If you are a native speaker of English, was AMERICAN English spoken at home when you were a child (as opposed to e.g. Australian or Indian English)?</p>
+      <label><input type="radio"  name="ame" value="Yes"/>Yes</label></p>
+	 <label><input type="radio"  name="ame" value="No"/>No</label>
+
+
+    <p><b>Race/Ethnicity (check all that apply):</b><br>
+        <!--<select id="race">--!>
+        	<!--<label><option value="0"/></label>-->
+          <label><input type="checkbox" name= "white" value="white"/>White</label><br>
+          <label><input type="checkbox" name = "black" value="black"/>Black / African-American</label><br>
+          <label><input type="checkbox" name = "latino" value="latino"/>Hispanic / Latino/a</label><br>
+          <label><input type="checkbox" name = "asian" value="asian"/>Asian</label><br>
+          <label><input type="checkbox" name = "native" value="native"/>American Indian or Alaska Native</label><br>
+          <label><input type="checkbox" name = "hawaiian" value="hawaiian"/>Native Hawaiian or other Pacific Islander</label><br>
+          <label><input type="checkbox" name = "otherRaceCheck" value="other"/>something else:<input type="text" id="otherRaceText"/></label>
+       <!--</select>-->
+      </p>
+
+
+
+	<p><b>In terms of US politics I am usually:</b><br> 
+      <label><input type="radio"  name="pol" value="strongLeft"/>strongly left-leaning</label><br>
+      <label><input type="radio"  name="pol" value="somewhatLeft"/>somewhat left-leaning </label><br>
+      <label><input type="radio"  name="pol" value="neither"/>neither left- nor right-leaning</label><br>
+      <label><input type="radio"  name="pol" value="somewhatRight"/>somewhat right-leaning</label> <br> 
+       <label><input type="radio"  name="pol" value="strongRight"/>strongly right-leaning</label> <br>   
+      </p>
+      
+      
+      	
+      <!--<table id="slider_table" class="slider_table">
+      <tbody><tr><td class="left"><h3>strongly left-leaning</h3></td><td class="right"><h3>strongly right-leaning</h3></td></tr>
+      <tr><td colspan="2"><div id="single_slider" class="slider ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" style="background: rgb(153, 214, 235);"><div class="ui-slider-range ui-widget-header ui-corner-all ui-slider-range-min" style="width: 55%;"></div><span class="ui-slider-handle ui-corner-all" tabindex="0" style="left: 55%; display: block; background: rgb(102, 125, 148); border-color: rgb(0, 31, 41);"></span></div></td></tr>
+    </tbody></table>-->
+    
+<!--<div class="slidecontainer">
+  <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+</div>-->
+
+
+
+
+
+
+
+
+      
+  <!--  <table id="slider_table" class="slider_table">
+      <tr><td class="left"><h3>very unlikely</h3></td><td class="right"><h3>very likely</h3></td></tr>
+      <tr><td colspan="2"><div id="single_slider" class="slider"></div></td></tr>
+    </table> -->   
+   
+
+
+    <!--<table id="slider_table" class="slider_table">
+      <tr><td class="left"><h3>strongly left-leaning</h3></td><td class="right"><h3>strongly right-leaning</h3></td></tr>
+      <tr><td colspan = "2" ><div id = "single_slider" class = "slider" ><input type='range' min=0 max=1000 id="black"/></div></td></tr>
+    </table>   -->
+
+
+
+
+
+      <!--<tr><td colspan="2"><div id="single_slider" class="slider"></div></td></tr>-->
+
+	<p><b>Politicians whose views and policies most match my own are more often from the:</b><br> 
+      <label><input type="radio"  name="party" value="Rep"/>Republican Party</label><br>
+      <label><input type="radio"  name="party" value="Dem"/>Democratic Party</label><br>
+      <label><input type="radio"  name="party" value="Lib"/>Libertarian Party</label> <br>  
+      <label><input type="radio"  name="party" value="Green"/>Green Party</label> <br> 
+       <label><input type="radio"  name="party" value="Other"/>Other:</label><input type="text" id="otherParty"/></label> 
+      </p>
+
+
+
+       <p><b>Level of education:</b>
+        <select id="education">
+          <label><option value="-1"/></label>
+          <label><option value="0"/>Some High School</label>
+          <label><option value="1"/>Graduated High School</label>
+          <label><option value="2"/>Some College</label>
+          <label><option value="3"/>Graduated College</label>
+          <label><option value="4"/>Hold a higher degree</label>
+        </select>
+      </p>
+      
+  <!--    <p><b>What is your current occupation? <input type="text" id="occupation"/></b></p> -->
+       
+       
+    	<p><b>In which range is your annual household income? :</b>
+        <select id="income">
+        	<label><option value="0"/></label>
+          <label><option value="0"/>$0-$19,199</label>
+          <label><option value="1"/>$20,000-$39,999</label>
+          <label><option value="2"/>$40,000-$59,999</label>
+          <label><option value="3"/>$60,000-$79,999</label>
+          <label><option value="4"/>$80,000-$99,000</label>
+          <label><option value="5"/>$100,000-$149,999</label>
+          <label><option value="6"/>$150,00-$199,999</label>
+          <label><option value="7"/>over $200,000</label>
+        </select>
+      </p>
+  
+       
+<!--      <p>Did you enjoy the hit?</p>
+      <select id="enjoyment">
+        <label><option value="-1"></option></label>
+        <label><option value="0">Worse than the Average HIT</option></label>
+        <label><option value="1" >An Average HIT</option></label>
+        <label><option value="2">Better than average HIT</option></label>
+      </select>
+-->
+
+      <p><b>We would be interested in any comments you have about this experiment. Please type them here:</b></p>
+      <textarea id="comments" rows="3" cols="50"></textarea>
+      <br/>
+      <!--</div>-->
+      <button onclick="_s.submit()">Submit</button>
+    </div>
+
+  <div class="slide" id="finished">
+  You're finished - thanks for participating! Submitting to Mechanical Turk...
+  </div>
+
+  <div class="progress">
+    <span>Progress:</span>
+    <div class="bar-wrapper">
+      <div class="bar" width="0%">
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
