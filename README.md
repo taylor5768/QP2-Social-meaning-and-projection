@@ -1,6 +1,6 @@
 # QP2-Social-meaning-and-projection
 
-This repository contains the stimuli for the experiments reported in this paper: http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/  
+This repository contains materials related to the experiments reported in this paper: http://www.journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/  
 
 **QP2Stim-Main-Expanded.csv**: Stimuli for the main experiment reported in the paper.  
 
@@ -19,6 +19,8 @@ Each row in the file represents a single target sentence.
 
 The main experiment can be viewed here: https://www.asc.ohio-state.edu/mahler.38/QP2Main-Expanded-Exp1/run-AMT-experiment/experiment.html
 
+The materials that were used to build the experiment webpage for the main experiment are also available in the directory "QP2-Main-Expanded-Exp1". To view the experiment locally on your browser, download the entire directory, and then open the "exp" directory. Click on the experiment. html file to open the experiment webpage locally in your browser.  The js directory contains the javascript for the webpage.
+
 
 **QP2Stim-Stim-Norming.csv**: Stimuli for the norming experiment.
 
@@ -30,3 +32,5 @@ Each row in the file represents a single target sentence:
 - **Topic:** the topic that the lexical content is associated with. Lexical contents are paired such that there is a R and L lexical content corresponding to the same political topic.
 
 The norming experiment can be viewed here: https://www.asc.ohio-state.edu/mahler.38/QP2Norming/run-AMT-experiment/experiment.html
+
+The materials that were used to build the experiment webpage for the main experiment are also available in the directory "QP2Norming-mTurkExp". To view the experiment locally on your browser, download the entire directory, and then open the "exp" directory. Click on the experiment. html file to open the experiment webpage locally in your browser.  The js directory contains the javascript for the webpage.
